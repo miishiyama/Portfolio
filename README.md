@@ -1,8 +1,14 @@
 # Portfolio
-![preview](./preview/Portfolio-320x635.png)
-![preview](./preview/Portfolio-768x577.png)
-![preview](./preview/Portfolio-1024x577.png)
-![preview](./preview/Portfolio-1440x679.png)
+
+<p align="center">
+  <a href="./preview/Portfolio-320x635.png">width: 320px</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./preview/Portfolio-768x577.png">width: 768px</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./preview/Portfolio-1024x577.png">width: 1024</a>
+</p>
+
+![preview](./preview/Portfolio-1440-679.png)
 
 ## Projeto 💻
 Projeto de um desafio da Rocketseat de criar uma página web para que seja seu portfolio e currículo. <br>
