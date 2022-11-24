@@ -1,0 +1,18 @@
+.footer-footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: var(--text-color);
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .footer-footer {
+        grid-area: c;
+    }
+}
