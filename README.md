@@ -1,13 +1,4 @@
 # Portfolio
-
-<p align="center">
-  <a href="./preview/Portfolio-320x635.png">width: 320px</a>
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Portfolio-768x577.png">width: 768px</a>
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Portfolio-1024x577.png">width: 1024</a>
-</p>
-
 ![preview](./preview/Portfolio-1440-679.png)
 
 ## Projeto 💻
