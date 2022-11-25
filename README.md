@@ -17,8 +17,10 @@ Projeto de um desafio da Rocketseat de criar uma página web para que seja seu p
 (https://www.figma.com/file/BVX3sg9Gdds802FdI40oOw/DD-%2F-Portfolio-(Copy)?t=Qa6L6WY6NwhVr3WT-6)
 
 ## Instalação 🛠
-1. Rode `npm i` para instalar as dependências do projeto.
-2. Rode `npm start` para iniciar o servidor de desenvolvimento.
+Siga esses passos para instalar o repositório na sua máquina:
+1. Rode `git clone https://github.com/miishiyama/Portfolio` para fazer um clone desse repositório.
+2. Rode `npm i` para instalar as dependências do projeto.
+3. Rode `npm start` para iniciar o servidor de desenvolvimento.
 
 ## Tecnologias 🚀
 As tecnologias utilizadas neste projeto são:
