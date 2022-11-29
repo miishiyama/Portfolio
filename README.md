@@ -13,7 +13,7 @@
 ![preview](./preview/Portfolio-1440x679.png)
 
 ## Projeto 💻
-Projeto de um desafio da Rocketseat de criar uma página web para que seja seu portfolio e currículo. <br>
+Projeto de um desafio da Rocketseat de criar uma página web para que seja um portfolio e currículo. <br>
 (https://www.figma.com/file/BVX3sg9Gdds802FdI40oOw/DD-%2F-Portfolio-(Copy)?t=Qa6L6WY6NwhVr3WT-6)
 
 ## Instalação 🛠
