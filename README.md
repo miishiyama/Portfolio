@@ -5,12 +5,14 @@
     &nbsp;&nbsp;&nbsp;
   <a href="./preview/Portfolio-320x635.png">320x635</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Portfolio-768x577.png">768x577</a>
+  <a href="./preview/Portfolio-768x635.png">768x635</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Portfolio-1024x577.png">1024x577</a>
+  <a href="./preview/Portfolio-1024x635.png">1024x635</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./preview/Portfolio-1440x747.png">1440x747</a>
 </p>
 
-![preview](./preview/Portfolio-1440x679.png)
+![preview](./preview/Portfolio-1440x747.png)
 
 ## Projeto 💻
 Projeto de um desafio da Rocketseat de criar uma página web para que seja um portfolio e currículo. <br>
