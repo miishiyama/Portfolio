@@ -3,16 +3,16 @@
 <p align="center">
   Preview:
     &nbsp;&nbsp;&nbsp;
-  <a href="./preview/Portfolio-320x635.png">320x635</a>
+  <a href="./preview/320x635/Portfolio-320x635.png">320x635</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Portfolio-768x635.png">768x635</a>
+  <a href="./preview/768x635/Portfolio-768x635.png">768x635</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Portfolio-1024x635.png">1024x635</a>
+  <a href="./preview/1024x635/Portfolio-1024x635.png">1024x635</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Portfolio-1440x747.png">1440x747</a>
+  <a href="./preview/1440x747/Portfolio-1440x747.png">1440x747</a>
 </p>
 
-![preview](./preview/Portfolio-1440x747.png)
+![preview](./preview/1440x747/Portfolio-1440x747.png)
 
 ## Projeto 💻
 Projeto de um desafio da Rocketseat de criar uma página web para que seja um portfolio e currículo. <br>
