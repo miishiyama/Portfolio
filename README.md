@@ -3,13 +3,13 @@
 <p align="center">
   Preview:
     &nbsp;&nbsp;&nbsp;
-  <a href="./preview/320x635/Portfolio-320x635.png">320x635</a>
+  <a href="./preview/320x635">320x635</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/768x635/Portfolio-768x635.png">768x635</a>
+  <a href="./preview/768x635">768x635</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/1024x635/Portfolio-1024x635.png">1024x635</a>
+  <a href="./preview/1024x635">1024x635</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/1440x747/Portfolio-1440x747.png">1440x747</a>
+  <a href="./preview/1440x747">1440x747</a>
 </p>
 
 ![preview](./preview/1440x747/Portfolio-1440x747.png)
