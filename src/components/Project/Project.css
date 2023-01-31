@@ -1,5 +1,5 @@
 .project-section {
-    margin-top: 30px;
+    margin-top: 30px
 }
 
 .project-div {
@@ -10,23 +10,23 @@
     padding-top: 30px;
     padding-left: 30px;
     padding-bottom: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 30px
 }
 
 .project-div2 {
     display: flex;
     align-items: center;
     background-color: var(--background-cards);
-    padding-bottom: 20px;
+    padding-bottom: 20px
 }
 
 .project-img {
     padding-right: 16px;
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .project-h3 {
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .project-a {
@@ -35,7 +35,7 @@
     font-size: 16px;
     line-height: 20px;
     color: var(--text-color);
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .project-p {
@@ -44,23 +44,23 @@
     line-height: 20px;
     color: var(--text-color);
     background-color: var(--background-cards);
-    padding-bottom: 30px;
+    padding-bottom: 30px
 }
 
 .project-div3 {
     display: flex;
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .project-div4 {
     display: flex;
     align-items: center;
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .project-img2 {
     padding-right: 8px;
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .project-p2 {
@@ -69,44 +69,44 @@
     line-height: 18px;
     color: var(--text-color);
     padding-right: 16px;
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .project-div5 {
     display: flex;
     align-items: center;
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .project-img3 {
     padding-right: 8px;
     margin-left: 15px;
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 @media (min-width: 768px) {
     .project-section {
-        grid-area: b;
+        grid-area: b
     }
 }
 
 @media (min-width: 1024px) {
     .project-section {
-        display: flex;
+        display: flex
     }
     .project-div:nth-child(2) {
-        margin-left: 20px;
+        margin-left: 20px
     }
 }
 
 @media (min-width: 1440px) {
     .project-div {
-        width: 461px;
+        width: 461px
     }
     .project-div:nth-child(2) {
-        margin-left: 30px;
+        margin-left: 30px
     }
     .project-img3 {
-        margin-left: 170px;
+        margin-left: 170px
     } 
 }

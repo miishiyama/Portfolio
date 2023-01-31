@@ -1,5 +1,5 @@
 .myprojects-section {
-    margin-top: 30px;
+    margin-top: 30px
 }
 
 .myprojects-div {
@@ -13,11 +13,11 @@
     width: 300px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between
 }
 
 .myprojects-h2 {
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .myprojects-a {
@@ -26,7 +26,7 @@
     font-size: 20px;
     line-height: 25px;
     color: var(--text-color);
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .myprojects-a2 {
@@ -36,25 +36,25 @@
     line-height: 18px;
     color: var(--text-color);
     float: right;
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 @media (min-width: 768px) {
     .myprojects-section {
-        grid-area: b;
+        grid-area: b
     }
 }
 
 @media (min-width: 1024px) {
     .myprojects-div {
         width: 620px;
-        margin-top: -110px;
+        margin-top: -110px
     }
 }
 
 @media (min-width: 1440px) {
     .myprojects-div {
         width: 952px;
-        margin-top: -124px;
+        margin-top: -124px
     }
 }

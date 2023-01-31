@@ -3,13 +3,21 @@
 <p align="center">
   Preview:
     &nbsp;&nbsp;&nbsp;
-  <a href="./preview/320x635">320x635</a>
+  <a href="./preview/320x635">
+    320x635
+  </a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/768x635">768x635</a>
+  <a href="./preview/768x635">
+    768x635
+  </a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/1024x635">1024x635</a>
+  <a href="./preview/1024x635">
+    1024x635
+  </a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/1440x747">1440x747</a>
+  <a href="./preview/1440x747">
+    1440x747
+  </a>
 </p>
 
 ![preview](./preview/1440x747/Portfolio-1440x747.png)
@@ -34,6 +42,8 @@ As tecnologias utilizadas neste projeto são:
 - Testing Library
 - React Scripts
 - Web Vitals
+- Media Queries
+- Google Fonts
 
 ## Créditos ❤️
 Feito por [Millene Eduarda Ishiyama](https://github.com/miishiyama/).

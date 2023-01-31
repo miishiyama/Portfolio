@@ -1,6 +1,6 @@
 .footer-footer {
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 20px
 }
 
 .footer-p {
@@ -8,11 +8,11 @@
     font-size: 14px;
     line-height: 20px;
     color: var(--text-color);
-    text-align: center;
+    text-align: center
 }
 
 @media (min-width: 768px) {
     .footer-footer {
-        grid-area: c;
+        grid-area: c
     }
 }

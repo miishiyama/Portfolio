@@ -1,5 +1,5 @@
 .technologies-section {
-    margin-top: 30px;
+    margin-top: 30px
 }
 
 .technologies-div {
@@ -11,13 +11,13 @@
     width: 300px;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center
 }
 
 
 .technologies-h2 {
     background-color: var(--background-cards);
-    padding-bottom: 20px;
+    padding-bottom: 20px
 }
 
 .technologies-a {
@@ -26,25 +26,25 @@
     font-size: 20px;
     line-height: 25px;
     color: var(--text-color);
-    background-color: var(--background-cards);
+    background-color: var(--background-cards)
 }
 
 .technologies-div2 {
     background-color: var(--background-cards);
-    border-radius: 20px;
+    border-radius: 20px
 }
 
 .technologies-ul {
     list-style: none;
     background-color: var(--background-cards);
-    border-radius: 20px;
+    border-radius: 20px
 }
 
 .technologies-li {
     display: flex;
     margin-bottom: 15px;
     background-color: var(--background-cards);
-    border-radius: 20px;
+    border-radius: 20px
 }
 
 .technologies-a2 {
@@ -61,31 +61,31 @@
     margin-right: 15px;
     width: 80px;
     display: flex;
-    justify-content: center;
+    justify-content: center
 }
 
 .technologies-a2:nth-child(3) {
-    margin-right: 0;
+    margin-right: 0
 }
 
 @media (min-width: 768px) {
     .technologies-section {
-        grid-area: a;
+        grid-area: a
     }
 }
 
 @media (min-width: 1440px) {
     .technologies-div {
         width: 348px;
-        align-items: baseline;
+        align-items: baseline
     }
     .technologies-a {
-        padding-left: 20px;
+        padding-left: 20px
     }
     .technologies-div2 {
-        align-self: center;
+        align-self: center
     }
     .technologies-a2 {
-        width: 86px;
+        width: 86px
     }
 }

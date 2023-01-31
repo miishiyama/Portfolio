@@ -5,7 +5,9 @@ export default function RecentPosts() {
         <section class="recentposts-section">
             <div class="recentposts-div">
                 <h2 class="recentposts-h2">
-                    <a class="recentposts-a" href="">Recent Posts</a>
+                    <a class="recentposts-a" href="">
+                        Recent Posts
+                    </a>
                 </h2>
             </div>
         </section>
