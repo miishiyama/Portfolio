@@ -23,7 +23,7 @@
 ![preview](./preview/1440x747/Portfolio-1440x747.png)
 
 ## Projeto 💻
-Projeto de um desafio da Rocketseat de criar uma página web para que seja um portfolio e currículo.
+Projeto de um desafio da Rocketseat de criar uma página web para que seja um portfólio e currículo.
 
 ## Layout 🔖
 Segue abaixo o layout deste projeto:
